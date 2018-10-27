@@ -32,7 +32,7 @@ p {
   border-radius: 4px;
   background-color:	#FF0000;
   border: none;
-  width: 120px;
+  width: 150px;
   height: 30px;
   transition: all 0.5s;
 }
@@ -75,6 +75,18 @@ p {
   width: 1200px;
   height: 200px;
   color: black;
+}
+
+#box1{
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1200px;
+    color: black;
+
 }
 .gradient-border {
   --borderWidth: 3px;

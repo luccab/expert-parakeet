@@ -11,6 +11,7 @@ Rails.application.routes.draw do
   root 'static_pages#home'
 
   get  '/aboutme',   to: 'static_pages#aboutme'
+  get '/data', to: 'static_pages#data'
   get  '/signup',  to: 'users#new'
   get    '/login',   to: 'sessions#new'
   post   '/login',   to: 'sessions#create'

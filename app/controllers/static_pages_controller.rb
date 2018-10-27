@@ -4,4 +4,8 @@ class StaticPagesController < ApplicationController
 
   def aboutme
   end
+
+  def data
+  end
+  
 end
