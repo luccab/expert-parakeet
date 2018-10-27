@@ -8865,38 +8865,32 @@ footer {
   margin-top: 45px;
   padding-top: 5px;
   border-top: 1px solid #eaeaea;
-  color: #777;
+  color: #555;
 }
 
 /* line 86, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 footer a {
-  color: #555;
+  color: #0074D9;
 }
 
 /* line 90, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 footer a:hover {
-  color: #222;
+  color: #39CCCC;
 }
 
-/* line 94, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
-footer small {
-  float: left;
-}
-
-/* line 98, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 97, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 footer ul {
-  float: right;
   list-style: none;
 }
 
-/* line 103, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 101, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 footer ul li {
-  float: left;
   margin-left: 15px;
+  color: #555;
 }
 
 /* miscellaneous */
-/* line 110, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 108, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .debug_dump {
   clear: both;
   float: left;
@@ -8907,66 +8901,66 @@ footer ul li {
   box-sizing: border-box;
 }
 
-/* line 120, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 118, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .gravatar {
   float: left;
   margin-right: 10px;
 }
 
-/* line 125, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 123, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .gravatar_edit {
   margin-top: 15px;
 }
 
-/* line 129, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 127, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .stats {
   overflow: auto;
   margin-top: 0;
   padding: 0;
 }
-/* line 133, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 131, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .stats a {
   float: left;
   padding: 0 10px;
   border-left: 1px solid #eeeeee;
   color: gray;
 }
-/* line 138, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 136, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .stats a:first-child {
   padding-left: 0;
   border: 0;
 }
-/* line 142, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 140, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .stats a:hover {
   text-decoration: none;
   color: blue;
 }
-/* line 147, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 145, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .stats strong {
   display: block;
 }
 
-/* line 152, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 150, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .user_avatars {
   overflow: auto;
   margin-top: 10px;
 }
-/* line 155, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 153, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .user_avatars .gravatar {
   margin: 1px 1px;
 }
-/* line 158, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 156, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .user_avatars a {
   padding: 0;
 }
 
-/* line 163, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 161, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .users.follow {
   padding: 0;
 }
 
 /* forms */
-/* line 169, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 167, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 input, textarea, select, .uneditable-input {
   border: 1px solid #bbb;
   width: 100%;
@@ -8976,50 +8970,50 @@ input, textarea, select, .uneditable-input {
   box-sizing: border-box;
 }
 
-/* line 176, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 174, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 input {
   height: auto !important;
 }
 
-/* line 179, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 177, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 #error_explanation {
   color: red;
 }
-/* line 181, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 179, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 #error_explanation ul {
   color: red;
   margin: 0 0 30px 0;
 }
 
-/* line 189, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 187, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .field_with_errors .form-control {
   color: #a94442;
 }
 
-/* line 195, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 193, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .checkbox {
   margin-top: -10px;
   margin-bottom: 10px;
 }
-/* line 198, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 196, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .checkbox span {
   margin-left: 20px;
   font-weight: normal;
 }
 
-/* line 204, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 202, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 #session_remember_me {
   width: auto;
   margin-left: 0;
 }
 
 /* Users index */
-/* line 211, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 209, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .users {
   list-style: none;
   margin: 0;
 }
-/* line 214, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 212, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .users li {
   overflow: auto;
   padding: 10px 0;
@@ -9027,57 +9021,103 @@ input {
 }
 
 /* microposts */
-/* line 223, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 221, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .microposts {
   list-style: none;
   padding: 0;
 }
-/* line 226, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 224, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .microposts li {
   padding: 10px 0;
   border-top: 1px solid #e8e8e8;
 }
-/* line 230, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 228, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .microposts .user {
   margin-top: 5em;
   padding-top: 0;
 }
-/* line 234, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 232, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .microposts .content {
   display: block;
   margin-left: 60px;
 }
-/* line 237, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 235, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .microposts .content img {
   display: block;
   padding: 5px 0;
 }
-/* line 242, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 240, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .microposts .timestamp {
   color: #777777;
   display: block;
   margin-left: 60px;
 }
-/* line 247, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 245, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 .microposts .gravatar {
   float: left;
   margin-right: 10px;
   margin-top: 5px;
 }
 
-/* line 255, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 253, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 aside textarea {
   height: 100px;
   margin-bottom: 5px;
 }
 
-/* line 261, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 259, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 span.picture {
   margin-top: 10px;
 }
-/* line 263, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
+/* line 261, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/custom.scss */
 span.picture input {
   border: 0;
+}
+/* line 1, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/data.scss */
+p {
+  text-align: center;
+}
+
+/* line 5, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/data.scss */
+h2 {
+  color: black;
+  font-size: 2.5em;
+}
+
+/* line 10, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/data.scss */
+.div-data {
+  background-color: white;
+  border: black;
+}
+
+/* line 17, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/data.scss */
+.text {
+  position: absolute;
+  text-align: justify;
+}
+
+/* line 23, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/data.scss */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Clear floats after the columns */
+/* line 32, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/data.scss */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  /* line 40, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/data.scss */
+  .column {
+    width: 100%;
+  }
 }
 @charset "UTF-8";
 /* line 1, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
@@ -9118,7 +9158,7 @@ p {
   border-radius: 4px;
   background-color: #FF0000;
   border: none;
-  width: 120px;
+  width: 150px;
   height: 30px;
   transition: all 0.5s;
 }
@@ -9168,7 +9208,19 @@ p {
   color: black;
 }
 
-/* line 79, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
+/* line 80, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
+#box1 {
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1200px;
+  color: black;
+}
+
+/* line 91, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
 .gradient-border {
   --borderWidth: 3px;
   position: relative;
@@ -9176,7 +9228,7 @@ p {
   border-radius: var(--borderWidth);
 }
 
-/* line 86, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
+/* line 98, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
 .gradient-border:after {
   content: '';
   position: absolute;
@@ -9202,18 +9254,18 @@ p {
     background-position: 0% 50%;
   }
 }
-/* line 112, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
+/* line 124, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
 #projects {
   width: 800px;
   height: 1200px;
 }
 
-/* line 117, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
+/* line 129, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
 .floatingimage {
   float: left;
 }
 
-/* line 122, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
+/* line 134, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
 #header_photo img {
   width: 100%;
   height: auto;
@@ -9222,7 +9274,7 @@ p {
 }
 
 @media all and (max-width: 1024px) {
-  /* line 131, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
+  /* line 143, /Users/luccabazzo/Documents/mysite/portfolio_1/app/assets/stylesheets/homepage.scss */
   #header_photo {
     display: inline-block;
     vertical-align: top;
